@@ -1,0 +1,9 @@
+.center {
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+
+.set {
+	margin: 20px;
+}
